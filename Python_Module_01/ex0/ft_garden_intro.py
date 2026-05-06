@@ -5,8 +5,9 @@ def display_plant_info(name: str, heigt: int, age: int) -> None:
     print(f"Age: {age} days")
     print("\n=== End of Program ===")
 
+
 if __name__ == "__main__":
     name = "blue"
     height = 25
     age = 30
-    display_plant_info(name,height,age)
+    display_plant_info(name, height, age)

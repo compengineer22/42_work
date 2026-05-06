@@ -27,5 +27,5 @@ if __name__ == "__main__":
 
     plants = [Rose, Oak, Cactus, Sunflower, Fern]
     for plant in plants:
-        print("Created: ",end="")
+        print("Created: ", end="")
         plant.show()
