@@ -1,8 +1,8 @@
 
 
-# 🌱 Code Cultivation
+#  Code Cultivation
 
-## 📌 Project Objective
+## Project Objective
 
 This project introduces **Object-Oriented Programming (OOP) in Python** by building a digital garden system.
 
